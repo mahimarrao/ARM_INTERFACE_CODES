@@ -1,4 +1,9 @@
-# hello_world1
-#changes
-hi floks
-this is mahima nothing much doing some stuffs
+# Arm Cortex 7
+interface codes for 
+RFID
+GSM
+GPRS
+ADC
+UART
+CAN
+and some combined to make an application
